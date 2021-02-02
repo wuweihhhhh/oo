@@ -47,3 +47,7 @@ a.default.score += this.fruitNumber + extraScore
 还有其他魔改方式，比如每次都下落相同水果，思路就是 "定位代码" => "修改调试"。
 
 当然，这种方式玩游戏就没有多少意思啦，大家可以学习下作者的源码，真的强！
+
+// 以上是原作者的readme 
+//   这个修改了图片的 用了oo 的图片
+访问： https://oo-rosy.vercel.app
